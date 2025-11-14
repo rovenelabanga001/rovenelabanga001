@@ -7,18 +7,6 @@ I also architect backend systems using **Flask, MongoDB, and PostgreSQL**, creat
 
 ---
 
-## 🧩 What I Do
-
-🟢 Build scalable **Nuxt.js applications** (SSR, SPA, SSG, Middleware, Pinia, Nuxt Content, Server APIs)  
-🟢 Design **reusable UI systems** with Tailwind CSS  
-🟢 Architect **REST APIs** using Flask  
-🟢 Work with **MongoDB & PostgreSQL** for fast and structured data  
-🟢 Integrate **authentication, session management, RBAC, and secure API workflows**  
-🟢 Build **dashboards, analytics pages, and content-driven systems**  
-🟢 Deploy performant apps using **Vercel, Netlify, and Render**
-
----
-
 ## ⚡ Core Tech Stack
 
 ### **Frontend (Primary Focus)**
