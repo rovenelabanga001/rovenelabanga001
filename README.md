@@ -1,4 +1,4 @@
-# Full-Stack Developer • Nuxt.js Specialist • Python (Flask) Backend Engineer
+# Full-Stack Developer • Nuxt.js Frontend Engineer • Python (Flask) Backend Engineer
 
 I build **fast, scalable, and user-focused web applications** using modern JavaScript frameworks and clean backend architectures.  
 My strongest specialization today is **Nuxt.js** — from **SSR, layered architecture, content management, and API integrations** to **production-grade deployments**.  
