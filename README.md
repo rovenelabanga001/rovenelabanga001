@@ -1,26 +1,18 @@
-# Full-Stack Developer • Nuxt.js Frontend Engineer • Python (Flask) Backend Engineer
+# Nuxt.js Developer • Flask Backend Engineer • Learning DevOps
 
-I build **fast, scalable, and user-focused web applications** using modern JavaScript frameworks and clean backend architectures.  
-My strongest specialization today is **Nuxt.js** — from **SSR, layered architecture, content management, and API integrations** to **production-grade deployments**.  
-
-I also architect backend systems using **Flask, MongoDB, and PostgreSQL**, creating **reliable APIs** that solve real-world problems.
+I build fast, user-focused web apps with **Nuxt.js** on the frontend and **Flask** on the backend.
+Currently leveling up in **DevOps** — Infrastructure as Code, CI/CD pipelines, and Kubernetes.
 
 ---
 
-## ⚡ Core Tech Stack
+## Stack
 
-### **Frontend (Primary Focus)**
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)  
-
-### **Frontend (Secondary)**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-### **Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **Databases & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+**Currently learning:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
